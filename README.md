@@ -9,6 +9,12 @@ Começando a aprender e desbravar o mundo da programação:
 :school_satchel: Ferramentas que estou aprendendo: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="30" height="30"/>
 
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Correa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Correa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 �
 
