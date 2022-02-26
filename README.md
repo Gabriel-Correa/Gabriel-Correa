@@ -1,5 +1,5 @@
-<h1 align="center"><font size = "4">Olá me chamo Gabriel Correa da Silva</h1>
-### Hi there 👋
+<h1 align="center">Olá me chamo Gabriel Correa da Silva</h1>
+### Começando a aprender e desbravar o mundo da progrmação
 
 <!--
 <h1 align="center">Olá me chamo Gabriel Correa da Silva</h1>
