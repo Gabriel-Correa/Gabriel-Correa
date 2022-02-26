@@ -1,4 +1,4 @@
-<h1 align="center">Olá me chamo Gabriel Correa da Silva</h1>
+<h1 align="center"><font size = "4">Olá me chamo Gabriel Correa da Silva</h1>
 ### Hi there 👋
 
 <!--
