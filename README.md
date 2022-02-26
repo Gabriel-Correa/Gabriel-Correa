@@ -7,7 +7,7 @@ Começando a aprender e desbravar o mundo da programação:
 - :space_invader: Meu atual objetivo, inicialmente, é dominar as ferramentas voltadas para o back-end. Após, buscar compreender as ferramentas e técnicas necessárias para virar full-stack.
 
 :school_satchel: Ferramentas que estou aprendendo: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="30" height="30"/>
 
 <!--
 �
