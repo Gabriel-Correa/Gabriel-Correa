@@ -5,6 +5,7 @@ Começando a aprender e desbravar o mundo da programação:
 
 - :milky_way: Comecei a me interessar mais por programação ao fim de 2021, início de 2022, começando a estudar por cursos de algoritmos e lógica de programação. Após comecei os estudos na linguagem Python e por oportunidade ramifiquei também para a linguagem Ruby;
 - :space_invader: Meu atual objetivo, inicialmente, é dominar as ferramentas voltadas para o back-end. Após, buscar compreender as ferramentas e técnicas necessárias para virar full-stack.
+:exclamation: Buscando oportunidades para me desenvolver como Dev profissional.
 
 :school_satchel: Ferramentas que estou aprendendo: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="30" height="30"/>
